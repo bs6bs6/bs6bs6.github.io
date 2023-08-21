@@ -1,4 +1,4 @@
-# Ssh2wsl
+# MacOS通过SSH连接Wsl
 
 
 ### SSH to WSL
