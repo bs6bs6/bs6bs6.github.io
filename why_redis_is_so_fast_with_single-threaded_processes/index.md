@@ -1,6 +1,13 @@
 # 
 
 ## Why Redis is so fast with Single-Threaded processes？
+---
+title: "Why is Redis so fast with Single-threaded processes?"
+date: 2023-11-16T18:18:55+08:00
+draft: false
+tags: ["Redis"]
+categories: ["Redis"]
+---
 
 ### Is Redis single-threaded
 
@@ -53,3 +60,4 @@ CPU数量小于进程数量时，所能分配的CPU资源是一定的，再多�
 https://xiaolincoding.com/redis,
 https://www.yanbinghu.com/2019/12/25/46016.html
 http://blog.zollty.com/b/archive/can-multi-thread-speed-up-the-processing-speed.html
+
