@@ -1,7 +1,8 @@
 # Grace q_sort Code
 
 
-### 
+###
+```java 
 public void q_sort(int l,int r, int[] nums){
         if (l >= r) return;
         int i = l - 1;
@@ -19,4 +20,5 @@ public void q_sort(int l,int r, int[] nums){
         q_sort(l, j,nums);
         q_sort(j + 1, r,nums);
 }
+```
 
